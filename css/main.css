@@ -1,0 +1,18 @@
+li{
+    color: darkgoldenrod;
+    font-family: serif;
+}
+p{
+    color: cadetblue;
+    background-color: chocolate;}
+.active{
+    color: cadetblue;
+    background-color: chocolate
+}
+.logo{
+    display: inline-block;
+    
+}
+h1{
+    color: aqua;
+}
